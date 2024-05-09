@@ -1,0 +1,6 @@
+#line 1 "C:\\Users\\imena\\OneDrive - Escuela Tecnica Roberto Rocca\\6\\Materias\\Lenguajes 6\\lenguajes6etrr\\practica_mef\\.vscode\\arduino.json"
+{
+    "sketch": "practica_mef.ino",
+    "board": "arduino:avr:uno",
+    "output": "./builds"
+}
